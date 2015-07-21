@@ -1,0 +1,5 @@
+C:\Dev\NerdAmigo\abstractions\obj\Debug\NerdAmigo.Abstractions.csprojResolveAssemblyReference.cache
+C:\Dev\NerdAmigo\abstractions\bin\Debug\NerdAmigo.Abstractions.dll
+C:\Dev\NerdAmigo\abstractions\bin\Debug\NerdAmigo.Abstractions.pdb
+C:\Dev\NerdAmigo\abstractions\obj\Debug\NerdAmigo.Abstractions.dll
+C:\Dev\NerdAmigo\abstractions\obj\Debug\NerdAmigo.Abstractions.pdb
