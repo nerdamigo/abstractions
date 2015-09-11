@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace NerdAmigo.Abstractions
 {
-	public interface ILogger
+	public interface IQueueMessageWorker<TMessage> where TMessage : IQueueMessage
 	{
-		void Log(LogEntry entry);
+		void Execute(TMessage Message);
 	}
 }

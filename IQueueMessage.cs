@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace NerdAmigo.Abstractions
 {
-	public interface ILogLevel
+	public interface IQueueMessage
 	{
-
+		QueueMessageIdentifier MessageId { get; set; }
 	}
 }

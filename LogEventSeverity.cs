@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace NerdAmigo.Abstractions
 {
-	public interface ILogger
+	public enum LogEventSeverity
 	{
-		void Log(LogEntry entry);
+		Debug = 1000,
+		Info = 2000,
+		Warning = 3000,
+		Error = 4000,
+		Fatal = 5000
 	}
 }
