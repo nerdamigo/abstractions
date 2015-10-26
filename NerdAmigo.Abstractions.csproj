@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="IConfigurationProvider.cs" />
     <Compile Include="IEnvironmentNameResolver.cs" />
+    <Compile Include="IEnvironmentConfigurationNameResolver.cs" />
     <Compile Include="IFileStorageItemInfo.cs" />
     <Compile Include="IFileStorableObject.cs" />
     <Compile Include="IFileStorageProvider.cs" />
