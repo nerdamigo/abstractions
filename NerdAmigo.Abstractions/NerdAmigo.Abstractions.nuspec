@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NerdAmigo.Abstractions</id>
+    <version>0.0.0</version>
+    <title>NerdAmigo Abstractions</title>
+    <authors>Matthew Mousseau</authors>
+    <owners>Continio Software Solutions, Inc.</owners>
+    <licenseUrl>https://github.com/nerdamigo/abstractions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/nerdamigo/abstractions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The abstractions project serves as an anchor for the concepts that I find recurring constantly.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags></tags>
+  </metadata>
+</package>
